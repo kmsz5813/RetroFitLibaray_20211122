@@ -17,6 +17,7 @@ class MainActivity : BaseActivity() {
     }
 
     override fun setupEvents() {
+        val myInet +
 
     }
 
